@@ -1,6 +1,9 @@
 //git test
+//git ist gut
 
 package com.weatronic.bluetoothtelemetry;
+
+//etwas?
 
 import android.util.Log;
 

@@ -1,3 +1,5 @@
+//git test
+
 package com.weatronic.bluetoothtelemetry;
 
 import android.util.Log;

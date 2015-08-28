@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_connect"
+        android:title="@string/action_connect"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_disconnect"
+        android:title="@string/action_disconnect"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_discoverable"
+        android:title="@string/action_discoverable"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_switch_protocol"
+        android:title="@string/action_switch_protocol"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_pick_fields"
+        android:title="@string/action_pick"
+        app:showAsAction="never" />
+</menu>
